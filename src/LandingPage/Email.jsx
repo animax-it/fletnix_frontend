@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "../Style/Email.module.css";
-import LanguageIcon from "@mui/icons-material/Language";
 import TextField from "@mui/material/TextField";
 import Box from "@mui/material/Box";
 import { useNavigate } from "react-router-dom";
